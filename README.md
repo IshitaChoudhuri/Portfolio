@@ -55,3 +55,7 @@ To run this project locally, follow these steps:
 
 3. Open the ```index.html``` file in your browser.
 
+## Usage
+
+Feel free to use this code to build your own portfolio. Customize it with your information, projects, and style preferences. If you find any issues or improvements, please create a pull request or open an issue.
+
